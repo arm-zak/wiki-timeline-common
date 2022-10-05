@@ -7,4 +7,3 @@ export { EventQuestion } from "./interfaces/EventQuestion.js";
 export { Game } from "./interfaces/Game.js";
 export { GameEvent } from "./interfaces/GameEvent.js";
 export { Player } from "./interfaces/Player.js";
-export { EventQuestionSchema } from "./models/EventQuestion.js";
